@@ -1,3 +1,5 @@
+let count = 12;
+
 let prev = document.getElementById('prev');
 let next = document.getElementById('next');
 
