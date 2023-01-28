@@ -12,7 +12,12 @@
     width:75px;
     margin:10px;
 }
-
+.center{
+    display:flex;
+    align-items:center;
+    justify-items:center;
+    flex-direction:column;
+}
 body{
     padding:30px;
     background: #0F202;
