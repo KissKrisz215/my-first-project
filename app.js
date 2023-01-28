@@ -20,3 +20,5 @@ next.onclick = function(){
         render();
     }
 }
+
+render();
